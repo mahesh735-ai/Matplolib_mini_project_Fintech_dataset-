@@ -67,6 +67,9 @@ The dataset contains the following columns:
 ## 🚀 Conclusion
 This project demonstrates the use of visualization techniques to extract actionable insights from business data. It highlights the importance of EDA in decision-making and showcases the ability to build professional dashboards using Matplotlib.
 
+## 🤖 Note
+This project was developed with the help of learning resources and AI-assisted guidance for understanding concepts and improving implementation.
+
 ---
 
 ## 📌 Final Statement
